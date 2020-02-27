@@ -58,7 +58,7 @@ def resize_img(image_, ratio=1.0):
 if __name__ == "__main__":
     # obj_image1 = cv2.imread("D:\\temp5.png")
     obj_image2 = cv2.imread("D:\\FF_.png")
-    temp_image = cv2.imread("D:\\MarkPoint\\MarkPointTemplate1.png")
+    temp_image = cv2.imread("D:\\AOI_STI\\images\\MarkPoint\\MarkPointTemplate1.png")
 
     tic = time.time()
 
